@@ -12,6 +12,8 @@
 > **📢 Notice: Why is this open-sourced?** 
 > I decided to open-source this project because I was unable to get approval for the Google Business Profile (GBP) API from Google. The entire frontend application is 100% complete and ready to use! Only the backend functionality has been removed. Feel free to explore the code, use the UI as inspiration for your own SaaS projects, or fork it to build your own backend on top of it.
 > 
+> **🌐 Free Domain Available:** I purchased the domain **replybuzz.online** in 2025. If anyone wants to take over this project and use the domain before it expires, [contact me here](https://farukhetro.vercel.app/contact) and I will transfer it to you completely free of charge!
+>
 > **💡 Hosting Tip:** For the smoothest user experience, I recommend hosting the landing page on your root domain (e.g., `domain.com`) and the main dashboard application on a subdomain (e.g., `app.domain.com`).
 > 
 > **❤️ Support:** If you found this codebase helpful or inspiring, I would love your support!  
